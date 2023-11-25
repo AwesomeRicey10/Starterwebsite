@@ -1,0 +1,49 @@
+body{
+background-color:#EBFFE6
+}
+h1 {
+color:#966700;
+font-family:brush script mt;
+}
+h2 {
+color:#1B7A69;
+font-family:brush script mt;
+}
+h3 {
+color:#22632D;
+font-family:courier new;
+}
+h4 {
+color:#3D7A71;
+font-family:courier new;
+}
+h5 {
+color:#C24400;
+font-family:courier new;
+}
+pre {
+padding: 1px;
+margin:20px;
+font-size:14px;
+font-family: ariel
+}
+a:link{
+color:#008037;
+background-color:transparent;
+text-decoration:none;
+}
+a:visited{
+color:#E30F00;
+background-color:transparent;
+text-decoration:none;
+}
+a:hover{
+color:#6E6E78;
+background-color:transparent;
+text-decoration:none;
+}
+a:active{
+color:#22736F;
+background-color:transparent
+text-decoration:none;
+}
